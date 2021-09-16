@@ -5,5 +5,5 @@ variable "region" {
 
 variable "bucket" {
   type = string
-  default = "stateB1510"
+  default = "statebuck1510"
 }
