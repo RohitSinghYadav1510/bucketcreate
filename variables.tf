@@ -5,10 +5,5 @@ variable "region" {
 
 variable "bucket" {
   type = string
-  default = "statebucket"
-}
-
-variable "bucketkey" {
-  type = string
-  default = "bucketkey"
+  default = "stateB1510"
 }
